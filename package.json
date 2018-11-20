@@ -1,0 +1,23 @@
+{
+  "name": "timestamp2",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "express": "4.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrisalisha/timestamp2.git"
+  },
+  "author": "ana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrisalisha/timestamp2/issues"
+  },
+  "homepage": "https://github.com/harrisalisha/timestamp2#readme"
+}
