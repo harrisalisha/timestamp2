@@ -48,7 +48,7 @@ app.get('/:naturalString([a-zA-Z]*)', function(req, res){
     res.send(result);
 });
 
-
+//listen to the port
 app.listen(8080, function() { 
     console.log('App listening on port 8080.');
   });
